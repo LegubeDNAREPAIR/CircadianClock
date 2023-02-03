@@ -20,3 +20,14 @@ Raw and processed data are available at
 |scriptsR/AverageProfile_Boxplot_Heatmap_DSB.r | Function and code for DSB profiles, boxplots, and heatmaps from deeptools counts matrices |  Figs 3C, 3D , 4E, S3B, S3E, S4H      |
 |scriptsR/AverageProfile_GeneBodies.R| Function and code for average profiles at gene bodies |    Fig S3C, S4G    |
 
+--------------------------------
+
+### Data Overview
+
+| Data        | Description                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------|
+|data/80random.bed                 | 80 random sites                  |
+|data/BLESS_80best_JunFragPE_Rmdups_pm500bp.bed | 80 best AsiS1 DSB cut sites | 
+|data/BLESS_HR_JunFragPE_Rmdups_pm500bp.bed  |  HR DSBs   |
+|data/BLESS_NHEJ_JunFragPE_Rmdups_pm500bp.bed |  NHEJ DSBs  |
+|data/BMAL1DIVA_q0.1_peaks.narrowPeak  |  MACS2 Peak calling output from BMAL1 ChIP-seq  |
